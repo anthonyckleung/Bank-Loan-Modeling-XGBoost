@@ -16,6 +16,7 @@ This demonstration is done on a jupyter notebook.
 
 
 ### Description
-This notebook demonstrates the use of XGBoost (ensemble learning) on a binary classification problem 
-related to bank loans and bayesian optimization for hyperparameter fine-tuning.
+This notebook demonstrates the use of XGBoost (ensemble learning) 
+with bayesian optimization for hyperparameter fine-tuning on a binary classification problem 
+related to bank loans.
 
